@@ -41,7 +41,7 @@ Because this project prioritizes data privacy and zero API costs, it runs the LL
 
   Steps to run:
 
-  1. git clone [https://github.com/yourusername/trading-syndicate.git](https://github.com/yourusername/trading-syndicate.git)
+  1. git clone [https://github.com/pranavswaroop08/Trading-Analysis-Syndicate](https://github.com/pranavswaroop08/Trading-Analysis-Syndicate)
      cd "Trading-Analysis-Syndicate"
   2. python -m venv venv
      .\venv\Scripts\activate
